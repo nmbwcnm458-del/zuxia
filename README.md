@@ -1,9 +1,9 @@
 # 足下成长系统评估刷题  
 对接deepseek API 自动做题
 ## 使用  
-双击运行[edge.bat](edge.bat)  
+双击运行[edge.bat](https://github.com/nmbwcnm458-del/zuxia/releases/download/v0.2/edge.bat)  
 打开浏览器后登陆账号，打开评估做题页面  
-运行[ZuxiaAuto.exe](ZuxiaAuto.exe)  
+运行[ZuxiaAuto.exe](https://github.com/nmbwcnm458-del/zuxia/releases/download/v0.2/ZuxiaAuto.exe)  
 ## 项目情况  
 目前项目还有bug  
 **<u>浏览器上方的标签页只能留一个否则无法正常识别</u>**
